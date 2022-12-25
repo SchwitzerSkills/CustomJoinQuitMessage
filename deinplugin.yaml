@@ -1,0 +1,15 @@
+specVersion: 1
+type: plugin
+name: CustomJoinQuitMessage
+authors:
+  - SchwitzerSkills
+supportedGameVersions: ^1.19
+category: chat
+introduction: Mit diesem Plugin kann man die Join/Quit Nachricht verändern.
+description: |
+  # Überblick
+  Mit diesem Plugin kann man die Join/Quit Nachricht verändern.
+  
+  # Nutzung
+  In der 'messages.yml' kann man die Join bzw. Quit Nachricht ändern und mit dem PlaceHolder %player% wird der angegeben PlaceHolder
+  mit dem Minecraft Namen ersetzt. Mit '&' kann ein beliebige Farbe gewählt werden, die dann in der Join/Quit Message angezeigt wird.
